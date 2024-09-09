@@ -1,0 +1,44 @@
+h1 {
+  position: relative;
+  color: #113f67;
+}
+p {
+  color: #113f67;
+}
+a {
+  color: #dc2f2f;
+}
+.current-weather {
+  display: flex;
+  justify-content: space-between;
+}
+strong {
+  color: #be3144;
+}
+.search-button {
+  background-color: #de1b4a;
+  color: white;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+.search-input {
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 8px;
+  color: black;
+  font-size: 18px;
+}
+body {
+  color: #a2a8d3;
+}
+.temperature {
+  position: relative;
+  display: flex;
+  right: 2px;
+  top: 40px;
+  width: 100;
+  font-size: 45px;
+  color: #113f67;
+}
