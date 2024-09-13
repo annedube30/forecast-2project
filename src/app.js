@@ -48,7 +48,7 @@ function displayTemperature(response) {
   let windspeedElement = document.querySelector("#wind-speed");
   let iconElement = document.querySelector("#icon");
 
-  iconElement.innerHTML = `<img src="${response.data.condition.icon_url}" class="icon"/>`;
+  iconElement.innerHTML = `<img src="${response.data.condition.icon_url}" class="weather-icon"/>`;
 
   cityElement.innerHTML = response.data.city;
   descriptionElement.innerHTML = response.data.condition.description;
