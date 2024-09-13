@@ -39,6 +39,12 @@ body {
   right: 2px;
   top: 40px;
   width: 100;
-  font-size: 45px;
+  font-size: 80px;
   color: #113f67;
+}
+img {
+  position: relative;
+  right: 2px;
+  bottom: 5px;
+  width: 80px;
 }
