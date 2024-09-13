@@ -36,15 +36,15 @@ body {
 .temperature {
   position: relative;
   display: flex;
-  right: 2px;
-  top: 40px;
+  right: 20px;
+  bottom: 30px;
   width: 100;
   font-size: 80px;
   color: #113f67;
 }
 img {
   position: relative;
-  right: 2px;
-  bottom: 5px;
+  right: 80px;
+  bottom: -95px;
   width: 80px;
 }
