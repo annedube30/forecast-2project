@@ -44,7 +44,8 @@ body {
 }
 img {
   position: relative;
-  right: 80px;
-  bottom: -100px;
+  display: flex;
+  right: 90px;
+  bottom: 30;
   width: 80px;
 }
